@@ -10,7 +10,7 @@ namespace InClassAssignment
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Gabe Galiatsatos and Blake Miller");
         }
 
     }
