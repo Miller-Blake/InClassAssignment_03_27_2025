@@ -12,7 +12,7 @@ namespace InClassAssignment
 
         static void assignmentAuthors()
         {
-            Console.WriteLine("This assignment was created by Blake Miller and Gabe Galiatsatos");
+            Console.WriteLine("This assignment was created by Blake Miller and Gabe Galiatsatos");      
         }
 
         public string Name { get { return _name; } set { _name = value; } }
